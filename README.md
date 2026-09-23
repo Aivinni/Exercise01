@@ -1,5 +1,5 @@
 # Exercise01
-Aivin Ni
-![A meme](image.webp)
-2029
-Project: Opticos
+- **Name:** Aivin Ni
+- **Photo:** ![My photo](image.webp)
+- **Graduating year:** 2029
+- **Project:** Opticos
